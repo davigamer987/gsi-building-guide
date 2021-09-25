@@ -1,1 +1,1 @@
-# Guide For Porting Roms to gsi
+# Guide For Building Roms for gsi
