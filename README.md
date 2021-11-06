@@ -1,7 +1,9 @@
 # Guide For Building Roms for gsi
 This guide assumes you are running ubuntu 21.04 (any version above 20.04 should be fine)
+
 It is recommended to have 16gb ram or more for building and at least 100gb of storage (200gb+ recommended for faster building)
-#This guide also assumes that you have all android depencies already installed !!!
+
+# This guide also assumes that you have all android depencies already installed !!!
 
 Step 1: Start by making a folder to work on, run: mkdir gsibuild;cd gsibuild
 
